@@ -13,8 +13,8 @@ while you are using the Application.
 
 <b>Third-Party Advertisements</b>
 
-You have downloaded our app,this Application uses Applovin, a third party vendor, to serve advertisements 
-in the Application, using the Applovin system . By using the Application, 
+You have downloaded our app, this application uses Applovin, a third party vendor, to serve advertisements 
+in our application, using the Applovin system . By using the Application, 
 you consent to the delivery of these advertisements and any data collected by Applovin, as per the 
 Privacy Policy of Applovin.
 * <a href="https://www.applovin.com/privacy/">Applovin Policies</a> (click to see)
