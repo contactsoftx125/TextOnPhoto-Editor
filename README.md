@@ -13,11 +13,11 @@ while you are using the Application.
 
 <b>Third-Party Advertisements</b>
 
-You have downloaded our app,this Application uses Google, a third party vendor, to serve advertisements 
-in the Application, using the AdMob system . By using the Application, 
-you consent to the delivery of these advertisements and any data collected by Google, as per the 
-Privacy Policy of AdMob.
-* <a href="https://support.google.com/admob/answer/6128543?hl=en">Admob Policies</a> (click to see)
+You have downloaded our app,this Application uses Applovin, a third party vendor, to serve advertisements 
+in the Application, using the Applovin system . By using the Application, 
+you consent to the delivery of these advertisements and any data collected by Applovin, as per the 
+Privacy Policy of Applovin.
+* <a href="https://www.applovin.com/privacy/">Applovin Policies</a> (click to see)
 
 <b>Children’s Privacy</b>
 
